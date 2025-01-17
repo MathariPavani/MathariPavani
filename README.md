@@ -18,6 +18,6 @@
 - 📈 [Predictive Modeling of Student Outcomes](https://github.com/MathariPavani/Predictive-Modeling-of-Student-Outcomes)  
 
 ### 📫 Connect With Me  
-- [LinkedIn](www.linkedin.com/in/mathari-pavani-08031998)  
+- [LinkedIn](https://www.linkedin.com/in/mathari-pavani-08031998/)  
 - [Email](mailto:mathari.pavani08@gmail.com )
 
